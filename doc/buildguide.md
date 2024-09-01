@@ -193,10 +193,10 @@ L字状のガイドが白線でキー数分印刷されていますので、そ�
 
 Slab40専用ケースであるHenge40ケースの3Dデータを公開しています。金属素材のCNC削り出しが可能なサービスで製造が可能です。
 
-- https://github.com/ymkn/KeeBar/releases/download/v1.0/Henge40-Enclosure-Case.step (ケース3Dデータ)
-- https://github.com/ymkn/KeeBar/releases/download/v1.0/Henge40-Enclosure-Case.pdf (ケースネジ穴指示)
-- https://github.com/ymkn/KeeBar/releases/download/v1.0/Henge40-Enclosure-Cover.step (カバー3Dデータ)
-- https://github.com/ymkn/KeeBar/releases/download/v1.0/Henge40-Enclosure-Cover.pdf (カバーネジ穴指示)
+- https://github.com/ymkn/Slab40/releases/download/v1.0/Henge40_Enclosure-Case.step (ケース3Dデータ)
+- https://github.com/ymkn/Slab40/releases/download/v1.0/Henge40_Enclosure-Case.pdf (ケースネジ穴指示)
+- https://github.com/ymkn/Slab40/releases/download/v1.0/Henge40_Enclosure-Cover.step (カバー3Dデータ)
+- https://github.com/ymkn/Slab40/releases/download/v1.0/Henge40_Enclosure-Cover.pdf (カバーネジ穴指示)
 
 > [!CAUTION]
 > 3Dプリンタによる出力は設計上考慮されていません。ネジ穴の造形に問題が生じたり、素材の収縮によりケースとカバーがかみ合わなくなるなどの問題が発生する恐れがあります。
