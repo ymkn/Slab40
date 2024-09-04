@@ -407,7 +407,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Slab30_SwitchFoam.kicad_pro",
+    "filename": "Slab40_SwitchFoam.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -485,7 +485,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "Slab30_SwitchFoam.step",
+      "step": "Slab40_SwitchFoam.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""

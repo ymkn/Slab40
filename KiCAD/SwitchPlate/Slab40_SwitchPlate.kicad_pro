@@ -34,9 +34,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 5.00126,
-          "height": 7.00024,
-          "width": 7.00024
+          "drill": 3.2,
+          "height": 3.2,
+          "width": 3.2
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -407,7 +407,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Slab30_SwitchPlate.kicad_pro",
+    "filename": "Slab40_SwitchPlate.kicad_pro",
     "version": 1
   },
   "net_settings": {
